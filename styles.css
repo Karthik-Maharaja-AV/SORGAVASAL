@@ -6,14 +6,14 @@ body{
   overflow-x: hidden;
 }
 nav{
-  background-color: rgba(101, 97, 97, 0.316);
+  /* background-color: rgba(13, 12, 12, 0.647); */
 }
 .bgs{
   background-image: url('bg.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  z-index: -9999;
+  z-index: -1;
 }
 nav{
     font-family: 'Poppins', sans-serif;

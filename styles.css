@@ -5,6 +5,9 @@ body{
   
   overflow-x: hidden;
 }
+nav{
+  background-color: rgba(101, 97, 97, 0.316);
+}
 .bgs{
   background-image: url('bg.png');
   background-repeat: no-repeat;
